@@ -1,3 +1,2 @@
-# Base the link. I study about AI/Data process.
 <a href="https://dacon.io/"><img src="https://img.shields.io/badge/Dacon-1769AA?style=flat-square&logo=D&logoColor=white"/></a>
 ### [Issues] : How I had to solve a problem.
