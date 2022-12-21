@@ -1,0 +1,7 @@
+https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb
+
+(22_1221)
+코드 해석 후 작동방식 이해
+
+(plan)
+in package를 이용해 가지고 있는 이미지의 특정 info를 추츨 하도록 유도한다.
